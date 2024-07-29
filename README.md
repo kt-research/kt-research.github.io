@@ -1,2 +1,2 @@
 # kt-research
-Research
+Research.
