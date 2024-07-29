@@ -174,10 +174,11 @@
 		const mainSections = document.getElementsByName('main-sections')[0];
 		config.main.sections.forEach(section => {
 			const article = document.createElement('article');
+			article.setAttribute('style', 'background-image: url("'+section.background+'");');
 			const span = document.createElement('span');
 			span.className = 'image';
 			const img = document.createElement('img');
-			img.src = "url("+section.background+")";
+			img.src = section.background;
 			img.alt = '';
 			span.appendChild(img);
 			const header = document.createElement('header');
