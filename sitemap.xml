@@ -15,24 +15,4 @@
          <lastmod>2024-07-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
-    <url>
-         <loc>https://kt-research.github.io/blog/cloud-native/specifications/</loc>
-         <lastmod>2024-07-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kt-research.github.io/blog/cloud-native/tying_cloud_assets/</loc>
-         <lastmod>2024-07-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kt-research.github.io/blog/pac/nomenclature_is_hard/</loc>
-         <lastmod>2024-07-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kt-research.github.io/blog/pac/py_git_revshell/</loc>
-         <lastmod>2024-07-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
 </urlset>
